@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orpros
 - 👀 I’m interested in network, security and cloud system automation
-- 🌱 I’m currently learning programming/python
+- 🌱 I’m currently learning programming\python\github
 - 💞️ I’m looking to collaborate on life 
 - 📫 How to reach me 
 https://www.linkedin.com/in/troels-foss-54603421/
